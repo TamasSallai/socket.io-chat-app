@@ -1,0 +1,4 @@
+.messages {
+  height: calc(100% - 7rem);
+  overflow-y: auto;
+}

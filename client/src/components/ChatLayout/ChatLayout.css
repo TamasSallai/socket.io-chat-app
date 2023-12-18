@@ -1,0 +1,6 @@
+.chat-layout {
+  height: 100vh;
+  max-width: 50rem;
+  margin: auto;
+  display: flex;
+}
